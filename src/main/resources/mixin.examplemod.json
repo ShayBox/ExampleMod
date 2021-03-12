@@ -1,0 +1,7 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.example.examplemod.mixin",
+  "mixins": [
+    "GuiMainMenuMixin"
+  ]
+}
